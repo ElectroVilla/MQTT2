@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MQTT1</string>
+    <string name="ip_address">IP Address</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="topic">electronixboy@gmail.com/smartlight</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="unsubscribe">Unsubscribe</string>
+    <string name="send_this_message">Send this message</string>
+    <string name="publish">Publish</string>
+    <string name="log"><![CDATA[Log>>]]></string>
+    <string name="connect">Connect</string>
+    <string name="tcp_192_168_0_101_1883">tcp://maqiatto.com:1883</string>
+</resources>
